@@ -1,0 +1,75 @@
+nohup: ignoring input
+[12:43:18] [DEBUG] 运行所在目录: /storage/emulated/0/WorkSpace/MyNettyServer
+[12:43:18] [INFO ] 读取配置文件: {localPort=34003, localAddress=0.0.0.0, heartTicker=864000000, enableHeartBeats=false}
+Dec 08, 2024 12:43:19 PM io.netty.util.internal.MacAddressUtil defaultMachineId
+WARNING: Failed to find a usable hardware address from the network interfaces; using random bytes: 52:7c:a6:1b:78:e4:b6:fb
+[12:43:19] [INFO ] $ni.name : $ni.displayName
+[12:43:19] [INFO ] udp server($groupAddress.hostName:$groupAddress.port) is running...
+[12:43:59] [DEBUG] 收到包类型: LoginRequestPacket
+[12:43:59] [INFO ] LoginRequestPacket 响应成功
+[12:43:59] [DEBUG] 登录玩家地址: /112.194.222.235:32279
+[12:43:59] [DEBUG] 目标玩家地址: /112.194.222.235:32279
+[12:44:10] [DEBUG] 收到包类型: MessageRequestPacket
+[12:44:10] [INFO ] 收到<玩家-0-pc>信息: kk
+[12:44:10] [DEBUG] 目标玩家地址: /112.194.222.235:32279
+[12:44:17] [DEBUG] 收到包类型: MessageRequestPacket
+[12:44:17] [INFO ] 收到<玩家-0-pc>信息: kdjf
+[12:44:17] [DEBUG] 目标玩家地址: /112.194.222.235:32279
+[12:44:46] [DEBUG] 收到包类型: LoginRequestPacket
+[12:44:46] [INFO ] LoginRequestPacket 响应成功
+[12:44:46] [DEBUG] 登录玩家地址: /171.216.35.123:27984
+[12:44:46] [DEBUG] 目标玩家地址: /171.216.35.123:27984
+[12:44:48] [DEBUG] 收到包类型: MessageRequestPacket
+[12:44:48] [INFO ] 收到<玩家-1-w>信息: sjs
+[12:44:48] [DEBUG] 目标玩家地址: /171.216.35.123:27984
+[12:44:53] [DEBUG] 收到包类型: BroadcastRequestPacket
+[12:44:53] [INFO ] 收到<玩家-1-w>广播: dkdj
+[12:44:53] [DEBUG] 目标玩家地址: /112.194.222.235:32279
+[12:44:53] [DEBUG] 目标玩家地址: /171.216.35.123:27984
+[12:44:59] [DEBUG] 收到包类型: MessageRequestPacket
+[12:44:59] [INFO ] 收到<玩家-0-pc>信息: osdjfko
+[12:44:59] [DEBUG] 目标玩家地址: /112.194.222.235:32279
+[12:45:09] [DEBUG] 收到包类型: MessageRequestPacket
+[12:45:09] [INFO ] 收到<玩家-1-w>信息: ksks
+[12:45:09] [DEBUG] 目标玩家地址: /171.216.35.123:27984
+[12:45:47] [DEBUG] 收到包类型: LoginRequestPacket
+[12:45:47] [INFO ] LoginRequestPacket 响应成功
+[12:45:47] [DEBUG] 登录玩家地址: /112.194.222.235:32391
+[12:45:47] [DEBUG] 目标玩家地址: /112.194.222.235:32391
+[12:45:49] [DEBUG] 收到包类型: MessageRequestPacket
+[12:45:49] [INFO ] 收到<玩家-2-pcv>信息: dkjf
+[12:45:49] [DEBUG] 目标玩家地址: /112.194.222.235:32391
+[12:45:50] [DEBUG] 收到包类型: MessageRequestPacket
+[12:45:50] [INFO ] 收到<玩家-2-pcv>信息: dkfjk
+[12:45:50] [DEBUG] 目标玩家地址: /112.194.222.235:32391
+[12:45:52] [DEBUG] 收到包类型: MessageRequestPacket
+[12:45:52] [INFO ] 收到<玩家-2-pcv>信息: dkfjk
+[12:45:52] [DEBUG] 目标玩家地址: /112.194.222.235:32391
+[12:45:52] [DEBUG] 收到包类型: MessageRequestPacket
+[12:45:52] [INFO ] 收到<玩家-2-pcv>信息: dkfjk
+[12:45:52] [DEBUG] 目标玩家地址: /112.194.222.235:32391
+[12:45:53] [DEBUG] 收到包类型: MessageRequestPacket
+[12:45:53] [INFO ] 收到<玩家-2-pcv>信息: dkfjk
+[12:45:53] [DEBUG] 目标玩家地址: /112.194.222.235:32391
+[12:46:05] [DEBUG] 收到包类型: BroadcastRequestPacket
+[12:46:05] [INFO ] 收到<玩家-2-pcv>广播: BBBBBBB
+[12:46:05] [DEBUG] 目标玩家地址: /112.194.222.235:32279
+[12:46:05] [DEBUG] 目标玩家地址: /171.216.35.123:27984
+[12:46:05] [DEBUG] 目标玩家地址: /112.194.222.235:32391
+[12:46:23] [DEBUG] 收到包类型: MessageRequestPacket
+[12:46:23] [INFO ] 收到<玩家-2-pcv>信息: dkfjk
+[12:46:23] [DEBUG] 目标玩家地址: /112.194.222.235:32391
+[12:46:28] [DEBUG] 收到包类型: MessageRequestPacket
+[12:46:28] [INFO ] 收到<玩家-2-pcv>信息: dkfjk
+[12:46:28] [DEBUG] 目标玩家地址: /112.194.222.235:32391
+[12:46:32] [DEBUG] 收到包类型: LoginRequestPacket
+[12:46:32] [INFO ] LoginRequestPacket 响应失败, reason: 重复的Guid登陆
+[12:46:32] [DEBUG] 目标玩家地址: /112.194.222.235:32391
+[12:46:40] [DEBUG] 收到包类型: BroadcastRequestPacket
+[12:46:40] [INFO ] 收到<玩家-2-pcv>广播: dkjfd
+[12:46:40] [DEBUG] 目标玩家地址: /112.194.222.235:32279
+[12:46:40] [DEBUG] 目标玩家地址: /171.216.35.123:27984
+[12:46:40] [DEBUG] 目标玩家地址: /112.194.222.235:32391
+[12:49:26] [DEBUG] 收到包类型: MessageRequestPacket
+[12:49:26] [INFO ] 收到<玩家-1-w>信息: dksk
+[12:49:26] [DEBUG] 目标玩家地址: /171.216.35.123:27984
